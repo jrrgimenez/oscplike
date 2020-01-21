@@ -1,32 +1,13 @@
-## Welcome to GitHub Pages
+## Mi camino al OSCP
 
-You can use the [editor on GitHub](https://github.com/jrrgimenez/oscplike/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+En esta serie de artículos busco retratar las dificultades que he encontrado y los aspectos que he aprendido realizando distintas máquinas que, según ciertos expertos, son similares a lo que se puede encontrar en el examen OSCP.
+Todas ellas estarán ordenadas por dificultad, de forma que la primera entrada abarcará la máquina más sencilla que podemos encontrar, siendo la última dedicada a aquella más compleja, siempre bajo mi criterio.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Linux boxes
+[Lamb](https://jrrgimenez.github.io/oscplike)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 

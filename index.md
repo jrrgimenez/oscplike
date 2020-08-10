@@ -8,5 +8,5 @@ Todas ellas estarán ordenadas por dificultad, de forma que la primera entrada a
 
 
 ### Linux boxes
-[Lamb](https://jrrgimenez.github.io/oscplike)
+[Lamb](https://github.com/jrrgimenez/oscplike/blob/master/doc_ad.md)
 
